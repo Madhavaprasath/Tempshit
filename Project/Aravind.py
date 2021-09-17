@@ -19,6 +19,5 @@ def main():
          
 
 main()
-print("hello world")
-
+print("hello")
 
